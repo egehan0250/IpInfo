@@ -1,0 +1,20 @@
+{
+  "name": "IpInfoweb",
+  "version": "1.0.0",
+  "description": "IpInfo web_dash",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Yes"
+  ],
+  "author": "Egehan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "ipinfo": "^1.5.1",
+    "node-ipinfo": "^3.2.0"
+  }
+}
